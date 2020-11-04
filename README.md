@@ -1,10 +1,10 @@
 # ronsmusicplayer
 <h2>⚡Javascript Projects⚡</h2>
 <h3>Coded by Ronald Guidry at <a href="https://www.ronysweb.com/">RonysWeb</a></h3>
-=========================================================
+=========================================================<br>
 
 <ul>
- <li><strong>Project name:</strong> ColorSwap.</li><br>
+ <li><strong>Project name:</strong> RonsMusicPlayer.</li><br>
 
  <li><strong>Description:</strong> Project coding with <em>HTML, CSS and JAVASCRIPT</em>. Personalize playlist. Adding favorite songs to the playlist. 
 
